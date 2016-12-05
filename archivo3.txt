@@ -1,0 +1,6 @@
+ARCHIVO DE PRUEBA
+
+Esta es una prueba para escribir varias 
+líneas en un archivo de texto editable con cualquier editor de textos.
+
+www.borjaro2000.tk
